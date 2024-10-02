@@ -1,12 +1,12 @@
 # Creating a data frame and reading CSV files in R
 
-1. Installing and Loading the Package
+### 1. Installing and Loading the Package
 
  As we know the first step in RStudio is always loading and installing the packages that we need
 
 ![image](https://github.com/user-attachments/assets/dd0680cc-fd9f-430f-8732-21f85f49935f)
 
-3. Creating dataframe
+### 2. Creating dataframe
 
 There are many ways to create a data frame in R, but one of the ways to do that is by creating individual data vectors and then combining them into a data frame using the `data.frame()` function.
 
@@ -16,7 +16,7 @@ Create a data frame named as "people" and populate it by using the above-mention
 
 ![image](https://github.com/user-attachments/assets/d87cc494-a23a-479b-a042-b267ab5cd4f4)
 
-3. Inspecting the dataframe
+### 3. Inspecting the dataframe
 
 Exploring some of the functions in R to summarize or preview the data as shown below.
 
